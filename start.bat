@@ -1,4 +1,4 @@
 
 d:
-cd m
-xrm-stak-cpu-notls
+cd \m
+xmr-stak-cpu-notls
